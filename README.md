@@ -25,3 +25,4 @@ The session aimed to build a foundational understanding of how robots work and w
 
 
 </p>
+DAY 2:
